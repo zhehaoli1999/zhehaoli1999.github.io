@@ -6,5 +6,5 @@ permalink: /about/
 
 I am Zhehao Li, a programmer, designer, and computer graphics lover. 
 
-To me, to write blogs to explain complex things clearly is a way to
+To me, to write blogs to explain complex things clearly is a great way to
 understand the world. 

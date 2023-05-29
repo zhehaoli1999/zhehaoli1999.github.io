@@ -34,21 +34,20 @@ categories: jekyll update
 As AI assistance like ChatGPT becomes stronger and stronger, we are facing an age that everyone needs to learn
 how to live with these AI assistance and leverage their help. It's true that these big neural networks seem to
 learn to answer your questions by just reading most, if not all, information on the internet during the training, which 
-usually leads to problems such as "token bias". But for me, all the clever ways proposed by AI researchers to make these neural networks figure out a way to "solidify" 
+usually leads to problem such as "token bias". But for me, all the clever ways proposed by AI researchers to make these neural networks figure out a way to "solidify" 
 all the infomation while acchieving fast responce speed to retrive and merge the information to get a not-bad, sometimes brilliant, answer is still amazing enough.  
 
-
 For me, I tried to use ChatGPT to help build this personal website, 
-where my propmts are like `The detailed steps to build a personal academic website with blogs, which supports
-latex formula.`. Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax. Finally after
+where my propmts are like "The detailed steps to build a personal academic website with blogs, which supports
+latex formula.". Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax. Finally after
 some iterations, I finally makes my personal website work. Though it is still a little plain at look without
 fancy styles, and I believe there are already AI tools to help me beautify the design of my website frontend, but now it is just enough for me to write blogs :) 
 
-
 For my last thought in my first post about the future of AI assistance, I believe every complex system will need a ChatGPT-like
 assistance, and this is just what is happening in Blender, Photoshop, Windows, etc. Then one of the remaining questions will be how
-to combine and communicate between these AI assistances to build a smoothly automatic pipeline for people's need, since each company and software has their own intelligence prosperities, I am suspicious whether 
-there will be an one-for-all AI assistance (but this may be acchieved on opensource software first). If so, a upper-level AI may be needed then to control all the low-level AI asssitances, similar idea like "HuggingGPT".
+to combine these AI assistances (since each company and software has their own intelligence prosperities, I am suspicious whether 
+there will be an one-for-all AI assistance, but this may be acchieved on opensource software first) to build a smoothly automatic pipeline for people's need,
+then a upper-level AI may be needed to control all the low-level AI asssitances, similar idea like "HuggingGPT".
 
 <!--Take content generation industry for example, I'd like to develop a personal VR FPS & survival game, which is happening on a-->
 <!--remote planet, where players act as refugees fleeing from a horrible war happening on their homeland. Then players-->
