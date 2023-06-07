@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Understand stable diffusion for image generation"
-date:   2023-05-29 17:07:59 +0800
+title:  "Stairways to the beyond: some thoughts and reflections after SIGGRAPH Asia 2023"
+date:   2023-06-08 17:07:59 +0800
 categories: jekyll update
 ---
 
