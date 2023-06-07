@@ -5,29 +5,24 @@ date:   2023-06-08 17:07:59 +0800
 categories: jekyll update
 ---
 
-<!--Jekyll requires blog post files to be named according to the following format:-->
+As the deadline for SIGGRAPH Asia 2023 has already passed for two weeks, I feel the need for some valuable summaries and first-handed reflections. Here are some of them.  
 
-<!--`YEAR-MONTH-DAY-title.MARKUP`-->
+1. **20/80 Principle**
+Always leave some time everyday to think what is the most important part of the project. It may be the comments of reviewers, or the experiments that related the closest with your core contributions. 
+Sometimes the minor parts or the attempt to improve a submodule may look really fun, but never bury yourself in the minor parts or minor contributions too long. 
 
-<!--Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.-->
+2. **Start From the Easiest Way**
+Always remember to try the easiest way to solve a problem first. Never solve a problem with the hardest method first, even it may be luring that it looks really good in the paper.  
 
-<!--Jekyll also offers powerful support for code snippets:-->
+3. **Take Quick Action** 
+Sometimes an idea need to be quickly implemented. 
 
-<!--{% highlight ruby %}-->
-<!--def print_hi(name)-->
-  <!--puts "Hi, #{name}"-->
-<!--end-->
-<!--print_hi('Tom')-->
-<!--#=> prints 'Hi, Tom' to STDOUT.-->
-<!--{% endhighlight %}-->
+4. **Keep Your Machine Busy**
+Never miss a night and keep your machine running when you are sleeping.  
 
-<!--$$-->
-<!--x = 2y -->
-<!--$$-->
+5. **Push Your Advisor & Teammates**
 
-<!--Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].-->
+6. **Visual Aesthetics Always Matters**
+Rendering quality always matters. When it looks good, it is good. 
 
-<!--[jekyll-docs]: https://jekyllrb.com/docs/home-->
-<!--[jekyll-gh]:   https://github.com/jekyll/jekyll-->
-<!--[jekyll-talk]: https://talk.jekyllrb.com/-->
 

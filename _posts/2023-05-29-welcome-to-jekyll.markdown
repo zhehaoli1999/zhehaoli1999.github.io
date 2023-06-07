@@ -39,7 +39,7 @@ all the infomation while acchieving fast responce speed to retrive and merge the
 
 For me, I tried to use ChatGPT to help build this personal website, 
 where my propmts are like `The detailed steps to build a personal academic website with blogs, which supports
-latex formula`. Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax (for presenting latex formula on line like this $\lambda \neq 1$ ). After
+latex formula`. Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax (for presenting latex formula on line like this $$\lambda \neq 1$$ ). After
 some iterations, I finally get my personal website work. Though it is still a little plain at look without
 fancy styles, and I believe there are already AI tools to help me beautify the design of my website frontend, but now it is just enough for me to write blogs :) 
 
