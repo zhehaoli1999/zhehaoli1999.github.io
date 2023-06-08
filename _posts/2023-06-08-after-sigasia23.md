@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Stairways to the beyond: some thoughts and reflections after SIGGRAPH Asia 2023"
-date:   2023-06-08 17:07:59 +0800
-categories: jekyll update
 ---
 
 As the deadline for SIGGRAPH Asia 2023 has already passed for two weeks, I feel the need for some valuable summaries and first-handed reflections. Here are some of them.  
