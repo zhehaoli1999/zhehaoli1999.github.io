@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The future of human-ai symbiosis: build my personal website with ChatGPT"
+title:  "The future of human-ai symbiosis: Build my personal website with ChatGPT"
 date:   2023-05-29 17:07:59 +0800
 categories: jekyll update
 ---
