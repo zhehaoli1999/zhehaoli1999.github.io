@@ -1,26 +1,32 @@
 ---
 layout: post
-title:  "Stairways to the beyond: some thoughts and reflections after SIGGRAPH Asia 2023"
+title:  "Stairways to the beyond: thoughts and reflections after SIGGRAPH Asia 2023"
 ---
 
-As the deadline for SIGGRAPH Asia 2023 has already passed for two weeks, I feel the need for some valuable summaries and first-handed reflections. Here are some of them.  
+As the deadline of SIGGRAPH Asia 2023 has already passed for two weeks, I feel the need for some valuable summaries and first-handed reflections. Here are some of them.  
 
 1. **20/80 Principle**
-Always leave some time everyday to think what is the most important part of the project. It may be the comments of reviewers, or the experiments that related the closest with your core contributions. 
-Sometimes the minor parts or the attempt to improve a submodule may look really fun, but never bury yourself in the minor parts or minor contributions too long. 
+
+Always leave some time everyday to think what is the most important part of the project. It may be the comments of reviewers, or the experiments that related the closest with your core contributions. Sometimes the minor parts or the attempt to improve a submodule may look really fun, but never bury yourself in the minor parts or minor contributions too long. You will always find you speed 80% of your time on things of 20% importance while only speed 20% time on things of 80% importance. 
 
 2. **Start From the Easiest Way**
+
 Always remember to try the easiest way to solve a problem first. Never solve a problem with the hardest method first, even it may be luring that it looks really good in the paper.  
 
-3. **Take Quick Action** 
-Sometimes an idea need to be quickly implemented. 
+3. **Discussions Always Helps**
+ 
+Discussions with your colleges always help, even if he or her does not familiar with your work. 
 
 4. **Keep Your Machine Busy**
-Never miss a night and keep your machine running when you are sleeping.  
 
-5. **Push Your Advisor & Teammates**
+Never miss a night and keep your machine running while you are sleeping.  
 
-6. **Visual Aesthetics Always Matters**
+5. **Visual Aesthetics Always Matters**
+
 Rendering quality always matters. When it looks good, it is good. 
+
+6. **Take Quick Action** 
+
+Sometimes an idea can be implemented much quicker than you thought (to build the basic infrastructure also matters). 
 
 
