@@ -5,7 +5,7 @@ title:  "Stairways to the beyond: Thoughts and reflections of SIGGRAPH Asia 2023
 
 As the deadline of SIGGRAPH Asia 2023 has already passed for two weeks, I feel the need for some valuable summaries and first-handed reflections. Here are some of them.  
 
-1. **20/80 Principle**: Always leave some time everyday to think what is the most important part of the project. It may be the comments of reviewers, or the experiments that related the closest with your core contributions. Sometimes the minor parts or the attempt to improve a submodule may look really fun, but never bury yourself in the minor parts or minor contributions too long. You will always find you speed 80% of your time on things of 20% importance while only speed 20% time on things of 80% importance. 
+1. **20/80 Principle**: Always leave some time everyday to think what is the most important part of the project. It may be the comments of reviewers, or the experiments that related the closest with your core contributions. Sometimes the minor parts or the attempt to improve a submodule may look really fun, but never bury yourself in the minor parts or minor contributions too long. You will always find you spend 80% of your time on things of 20% importance while only spend 20% time on things of 80% importance. 
 
 2. **Start From the Easiest Way**: Always remember to try the easiest way to solve a problem first. Never solve a problem with the hardest method first, even it may be luring that it looks really good in the paper.  
 
