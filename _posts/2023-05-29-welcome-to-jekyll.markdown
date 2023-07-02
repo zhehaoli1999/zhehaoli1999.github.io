@@ -32,10 +32,10 @@ categories: jekyll update
 <!--[jekyll-talk]: https://talk.jekyllrb.com/-->
 
 As AI assistance like ChatGPT becomes stronger and stronger, we are facing an age that everyone needs to learn
-how to live with these AI assistance and leverage their help. It's true that these big neural networks seem to
+how to live with these AI assistances and leverage their help. It's true that these big neural networks seem to
 learn to answer your questions by just reading most, if not all, information on the internet during the training, which 
 usually leads to problems such as "token bias". But for me, all the clever ways proposed by AI researchers to make these neural networks figure out a way to "solidify" 
-all the infomation while acchieving fast responce speed to retrive and merge the information to get a not-bad, sometimes brilliant, answer is still amazing enough.  
+all the infomation while acchieving fast responce speed to retrive and merge the information to get a not-bad, sometimes even brilliant, answer is still amazing enough.  
 
 
 For me, I tried to use ChatGPT to help build this personal website, 
