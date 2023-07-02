@@ -4,7 +4,7 @@
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/screenshot.png)
+<!-- ![minima theme preview](/screenshot.png) -->
 
 ## Installation
 

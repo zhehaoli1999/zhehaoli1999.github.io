@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Build my website with the help of ChatGPT"
+title:  "The future of human-ai symbiosis: Build my personal website with ChatGPT"
 date:   2023-05-29 17:07:59 +0800
 categories: jekyll update
 ---
@@ -31,24 +31,21 @@ categories: jekyll update
 <!--[jekyll-gh]:   https://github.com/jekyll/jekyll-->
 <!--[jekyll-talk]: https://talk.jekyllrb.com/-->
 
-As AI assistance like ChatGPT becomes stronger and stronger, we are facing an age that everyone needs to learn
+As AI assistances like ChatGPT become stronger and stronger, we are facing an age that everyone needs to learn
 how to live with these AI assistances and leverage their help. It's true that these big neural networks seem to
 learn to answer your questions by just reading most, if not all, information on the internet during the training, which 
 usually leads to problems such as "token bias". But for me, all the clever ways proposed by AI researchers to make these neural networks figure out a way to "solidify" 
-all the infomation while acchieving fast responce speed to retrive and merge the information to get a not-bad, sometimes even brilliant, answer is still amazing enough.  
-
+all the infomation while acchieving fast responce speed to retrive and merge the information to get a not-bad, sometimes even brilliant, answer (especially in coding!) is still amazing enough.  
 
 For me, I tried to use ChatGPT to help build this personal website, 
 where my propmts are like `The detailed steps to build a personal academic website with blogs, which supports
-latex formula`. Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax. After
-some iterations, I finally makes my personal website work. Though it is still a little plain at look without
+latex formula`. Then I got some useful infomation about Jekyll, Jekyll themes, Github Pages and mathjax (for presenting latex formula on line like this $$ \lambda \neq 1 $$ ). After
+some iterations, I finally get my personal website work. Though it is still a little plain at look without
 fancy styles, and I believe there are already AI tools to help me beautify the design of my website frontend, but now it is just enough for me to write blogs :) 
-
 
 For my last thought about the future of AI assistance, I believe every complex system will need a ChatGPT-like
 assistance, and this is just what is quickly happening these days in Blender, Photoshop, Windows, etc. Then one of the remaining questions will be how
-to combine and communicate between these AI assistances to build a smoothly automatic pipeline for people's need, since each company and software has their own intelligence prosperities, I am suspicious whether 
-there will be an one-for-all AI assistance (but this may be acchieved on opensource software first). If so, a upper-level AI may be needed then to control all the low-level AI asssitances, similar idea like "HuggingGPT".
+to combine and communicate between these AI assistances to build a smoothly automatic pipeline for people's need, since each company and software has their own intelligence prosperities, I am suspicious whether there will be an one-for-all AI assistance (but this may be acchieved on opensource software first). If so, a upper-level AI may be needed then to control all the low-level AI asssitances, similar idea like "HuggingGPT".
 
 <!--Take content generation industry for example, I'd like to develop a personal VR FPS & survival game, which is happening on a-->
 <!--remote planet, where players act as refugees fleeing from a horrible war happening on their homeland. Then players-->
