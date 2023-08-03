@@ -207,9 +207,9 @@
   @include relative-font-size(1.5);
 }
 
-.post-sublink {
-  //display: block;
-  @include relative-font-size(1.3);
+.post-subtitle {
+  font-size: $middle-font-size;
+  color: $grey-color-dark;
 }
 
 

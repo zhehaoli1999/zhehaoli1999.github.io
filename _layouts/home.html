@@ -22,11 +22,7 @@ layout: default
           </a>
         </h3>
         {%- if post.subtitle -%}
-          <h4>
-            <a class="page-content">
-              {{ post.subtitle | escape }}
-            </a>
-          </h4>
+        <span class="page-subtitle">{{ post.subtitle | escape }}</span> 
         {%- endif -%}
         
         {%- if site.show_excerpts -%}
