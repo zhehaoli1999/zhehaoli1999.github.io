@@ -207,6 +207,11 @@
   @include relative-font-size(1.5);
 }
 
+.post-sublink {
+  display: block;
+  @include relative-font-size(1.2);
+}
+
 
 
 /**

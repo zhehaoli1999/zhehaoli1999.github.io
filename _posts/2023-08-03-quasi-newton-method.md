@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "数值最优化笔记（1）：从统一的角度认识梯度下降、牛顿法与拟牛顿法"
+title:  "(Chinese) 数值最优化笔记(1)：从统一的角度认识梯度下降、牛顿法与拟牛顿法"
 subtitle: "Note of Numerical Optimization: A Unified View of Gradient Descent, Newton Method & Quasi-Newton Method"
 tag: "math" 
 ---
