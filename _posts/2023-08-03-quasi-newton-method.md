@@ -2,7 +2,7 @@
 layout: post
 title:  "数值最优化笔记（1）：从统一的角度认识梯度下降、牛顿法与拟牛顿法"
 subtitle: "Note of Numerical Optimization: A Unified View of Gradient Descent, Newton Method & Quasi-Newton Method"
-tag: "math", "note"
+tag: "math" 
 ---
 
 数值最优化方法一般可以分为线搜索（line search）与信赖域（trust region）两类，在无约束优化的线搜索方法中，最主流的方法有：梯度下降、牛顿法、拟牛顿法与共轭梯度法。在本文中，我们将努力回答以下问题：
