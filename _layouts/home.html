@@ -20,10 +20,10 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
         {%- if post.subtitle -%}
         <span class="post-subtitle">{{ post.subtitle | escape }}</span> 
         {%- endif -%}
+        </h3>
         
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
