@@ -126,10 +126,19 @@ $$
     $$
     \nabla f_k - \nabla f_* = \int_{0}^1 \nabla^2 f(x^* + t(x_k -x^*))(x_k - x^*) \text{d}t
     $$
-    然后两边取模，利用Lipschitz连续
+    然后两边取模，利用Lipschitz连续，我们有：
 
-    <img src="/home/user/.config/Typora/typora-user-images/image-20230804100214709.png" alt="image-20230804100214709" />
-
+    
+    $$
+    \begin{array}{rl}
+    & \quad \| \nabla^2 f\left(x_k\right)\left(x_k-x^*\right)-\left(\nabla f_k-\nabla f\left(x^*\right)\right) \| \\
+    & =\left\|\int_0^1\left[\nabla^2 f\left(x_k\right)-\nabla^2 f\left(x_k+t\left(x^*-x_k\right)\right)\right]\left(x_k-x^*\right) d t\right\| \\
+    & \leq \int_0^1\left\|\nabla^2 f\left(x_k\right)-\nabla^2 f\left(x_k+t\left(x^*-x_k\right)\right)\right\|\left\|x_k-x^*\right\| d t \\
+    & \leq\left\|x_k-x^*\right\|^2 \int_0^1 L t d t=\frac{1}{2} L\left\|x_k-x^*\right\|^2,
+    \end{array}
+    $$
+    
+    
     可以通过让$x_k$离$x^*$比较近把上面的$\frac{1}{2}$也去掉，那么：
     $$
     \begin{align}
@@ -190,6 +199,8 @@ $$
   \|x_{k+1} - x^* \| = \|x_k + p_k - x^*\| \leq o(\|x_k - x^* \|)
   $$
   同时：
+  
+  
   $$
   \begin{align}
   \| x_k + p_k - x^*\| &\geq \|x_k + p_k^N - x^* \| - \| p_k - p_k^N \| \\
@@ -197,15 +208,15 @@ $$
   
   \end{align}
   $$
+  
+  
   即有超线性收敛速度。
   
   **事实上，公式(1)是拟牛顿法具有超线性收敛速度的充要条件。**
   
   
 
-但是问题来了，是否所有的拟牛顿法都能够满足$$\lim_{k\rightarrow \infty} \frac{\|(B_k - \nabla^2 f(x^*))p_k \|}{\| p_k\|} = 0$$呢？以及这些方法中极限的收敛速度也会影响它们的优化速度。下面我们以经典的BFGS方法来进行分析：
-
-##### 2.2 BFGS的收敛性分析
+但是问题来了，是否所有的拟牛顿法都能够满足$$\lim_{k\rightarrow \infty} \frac{\|(B_k - \nabla^2 f(x^*))p_k \|}{\| p_k\|} = 0$$呢？（可以证明，经典的BFGS方法可以满足这一点）以及这些方法中极限的收敛速度也会影响它们的优化速度。
 
 
 
