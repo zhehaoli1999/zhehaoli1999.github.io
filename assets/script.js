@@ -1,7 +1,8 @@
 const now = new Date();
 const hours = now.getHours();
 
-var light = hours > 6 && hours < 19;
+//var light = hours > 6 && hours < 19;
+var light = 1;
 
 function lightmode () {
 	$('html').attr('data-bs-theme', 'light');
@@ -11,6 +12,9 @@ function lightmode () {
 	$('.btn').addClass('btn-outline-dark');
 	$('#bibtex').removeClass('bibtex-dark');
 	$('#bibtex').addClass('bibtex-light');
+  //var rootElement = document.documentElement;
+  //rootElement.style.setProperty('--theme-color', '#416B8E');
+  //document.documentElement = rootElement;
 }
 
 function darkmode () {
@@ -21,6 +25,8 @@ function darkmode () {
 	$('.btn').addClass('btn-outline-light');
 	$('#bibtex').removeClass('bibtex-light');
 	$('#bibtex').addClass('bibtex-dark');
+  //var rootElement = document.documentElement;
+  //rootElement.style.setProperty('--theme-color', '#43B7F3');
 }
 
 // color mode init
